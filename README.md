@@ -185,23 +185,23 @@ world-cup-2026-prediction-model
 
 ### Inicio
 
-![Inicio](outputs/screenshots/00_inicio.png)
+![Inicio](world-cup-2026-prediction-model/Outputs/Screenshots/pagina%201.png)
 
 ### Resumen Ejecutivo
 
-![Resumen Ejecutivo](outputs/screenshots/01_resumen_ejecutivo.png)
+![Resumen Ejecutivo](world-cup-2026-prediction-model/Outputs/Screenshots/pagina%202.png)
 
 ### Ranking & Análisis
 
-![Ranking & Análisis](outputs/screenshots/02_ranking_analisis.png)
+![Ranking & Análisis](world-cup-2026-prediction-model/Outputs/Screenshots/pagina%203.png)
 
 ### Simulador de Partidos
 
-![Simulador de Partidos](outputs/screenshots/03_simulador_partidos.png)
+![Simulador de Partidos](world-cup-2026-prediction-model/Outputs/Screenshots/pagina%204.png)
 
 ### Simulación del Torneo
 
-![Simulación del Torneo](outputs/screenshots/04_simulacion_torneo.png)
+![Simulación del Torneo](world-cup-2026-prediction-model/Outputs/Screenshots/pagina%205.png)
 
 ---
 
